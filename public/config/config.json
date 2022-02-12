@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x62Fd4AbdD3Eda9A12c4b9925e5e19d005Db5ccDD",
+  "SCAN_LINK": "https://polygonscan.com/token/0x62Fd4AbdD3Eda9A12c4b9925e5e19d005Db5ccDD",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Stripes NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 6500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/happy-flamingos-holders-club",
+  "SHOW_BACKGROUND": true
+}
